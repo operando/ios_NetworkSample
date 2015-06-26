@@ -10,5 +10,6 @@
 #define ApiSample_ApiSample_Bridging_Header_h
 
 #import <AFNetworking/AFNetworking.h>
+#import <AFNetworkActivityLogger/AFNetworkActivityLogger.h>
 
 #endif
